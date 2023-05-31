@@ -6,7 +6,6 @@
 }
 
 .izq{
-  /* border: solid 1px red; */
   width: 30%;
   height: 100%;
   display: flex;
@@ -16,7 +15,6 @@
 }
 
 .izq{
-  /* border: solid 1px red; */
   width: 30%;
   height: 100%;
   display: flex;
@@ -26,7 +24,6 @@
 }
 
 .derecha{
-  /* border: solid 1px blue; */
   width: 70%;
   height: 100%;
   display: flex;
@@ -38,14 +35,12 @@
 }
 
 .arri{
-  /* border: solid 1px yellow; */
   width: 90%;
   height: 40%;
   background: white;
 }
 
 .abajo{
-  /* border: solid 1px pink; */
   width: 90%;
   height: 40%;
   display: flex;
@@ -54,7 +49,6 @@
 }
 
 .arri2{
-  /* border: solid 1px yellow; */
   width: 90%;
   height: 40%;
   display: flex;
@@ -63,7 +57,6 @@
 }
 
 .abajo2{
-  /* border: solid 1px pink; */
   width: 90%;
   height: 40%;
   display: flex;
@@ -74,14 +67,12 @@
 
 
 .rojo{
-  /* border: solid 1px rgb(78, 17, 27); */
   width: 90%;
   height: 90%;
   background: red;
 }
 
 .rojo2{
-  /* border: solid 1px rgb(78, 17, 27); */
   width: 95%;
   height: 90%;
   background: red;
